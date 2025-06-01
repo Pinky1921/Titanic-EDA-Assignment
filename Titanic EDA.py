@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  1 13:05:58 2025
+
 
 @author: Pinky
 """
